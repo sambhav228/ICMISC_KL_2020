@@ -7,7 +7,11 @@ This conference envisions to provide deep insight in the fields of Machine Intel
 
 ![screenshot_1](https://github.com/sambhav228/ICMISC_KL_2020/blob/master/img/scr/1AF.jpg)
 
+
+
 ![screenshot_2](https://github.com/sambhav228/ICMISC_KL_2020/blob/master/img/scr/2BS.jpg)
+
+
 
 ![screenshot_3](https://github.com/sambhav228/ICMISC_KL_2020/blob/master/img/scr/3CT.jpg)
 
